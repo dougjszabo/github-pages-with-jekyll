@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Trying GitHub Pages for Tenacious-D
 
-I'm glad you are here. I plan to talk about ...
+There isn't much to say.  I'm just working through the 7 steps of GitHub pages learning lab.
